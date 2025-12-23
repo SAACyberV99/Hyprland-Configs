@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+swayidle -w before-sleep 'hyprlock'
